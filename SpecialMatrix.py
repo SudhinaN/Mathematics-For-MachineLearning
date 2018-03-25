@@ -105,7 +105,6 @@ fixRowZero(A)
 fixRowOne(A)
 print(fixRowTwo(A))
 print(fixRowThree(A))
-
 # A = np.array([
 #         [2, 5, 6, 9],
 #         [7, 0, 2, 3],
